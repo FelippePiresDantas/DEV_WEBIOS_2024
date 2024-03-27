@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>CASA</title>
+</head>
+<body>
+    <h1>FELIPPE<BR></h1>
+    <P>Meu nome é Felippe e tenho 17 anos. Moro em Osasco , estudo no centro de Osasco na escola Liberatti, e uso minha bicicleta para chegar lá. <br>
+    Faço curso de espanhol todas as terças e quintas, tambem estou fazendo curso de Desenvolvimento Web em Santana.
+    Sou viciado em futebol ,e mais viciado ainda no Corinthians.</P>
+    <h3>MEUS 5 FILMES/SÉRIES FAVORITOS</h3>
+    <ul>
+        <li>Peaky Blinders</li>
+        <li>Karate Kid</li>
+        <li>As Branquelas</li>
+        <li>Todo Mundo Odeia o Cris</li>
+        <li>The Flash</li>
+    </ul>
+</body>
+</html>

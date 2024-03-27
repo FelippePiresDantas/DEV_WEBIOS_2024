@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Aula 07</title>
+    </head>
+    <body>
+        <!--FORMULÁRIOS-->
+
+        <form action="../eu-tentei.html">
+            <fieldset>
+                <legend>PACOTES DE VIAGENS</legend>
+                <fieldset>
+                    <label>Nome:</label>
+                    <input type="text"><br>
+    
+                    <label>Idade:</label>
+                    <input type="number"><br>
+    
+                    <label>Gmail:</label>
+                    <input type="email"><br>
+    
+                    <label>Telefone:</label>
+                    <input type="number">
+                </fieldset>
+    
+                <br><label>Cor da Cadeira:</label>
+                <input type="radio" name="color">
+                <label>Azul</label>
+                <input type="radio"name="color">
+                <label>Amarelo</label>
+                <input type="radio"name="color">
+                <label>Vermelho</label><br><br>
+    
+                <fieldset>
+                    <label>Adicionais:</label><br>           
+                    <input type="checkbox">
+                    <label>Café da manhã</label><br>
+                    <input type="checkbox">
+                    <label>Almoço</label><br>
+                    <input type="checkbox">
+                    <label>Janta</label><br>
+                    <input type="checkbox">
+                    <label>Transporte</label>
+                </fieldset>
+    
+                <br>
+                <fieldset>
+                    <input type="radio" name="Ida">
+                    <label>Somente Ida</label><br>
+                    <input type="radio" name="Ida">
+                    <label>Ida e Volta</label>
+                    <fieldset>
+                        <h4>Quantidade de Crianças</h4>1
+                        <input type="range">10
+                        <h4>Quantidade de Adultos</h4>1
+                        <input type="range">10 <br>
+                    </fieldset>
+                </fieldset>
+                
+                <br>
+    
+                <fieldset>
+        
+                    <label>Partida</label><br>
+        
+                    <input list="Estados" type="text">
+                    
+                    <datalist id="Estados">
+                            <option value="Rio De Janeiro"></option>
+                            <option value="Rio Grande Do Norte"></option>
+                            <option value="Rio Grande Do Sul"></option>
+                            <option value="São Paulo"></option>
+                            <option value="Sergipe"></option>
+                            <option value="Tocantins"></option>
+                            <option value="Acre"></option>
+                            <option value="Bahia"></option>
+                            <option value="Pernanbuco"></option>
+                            <option value="Alagoas"></option>
+                            <option value="Ceará"></option>
+                    </datalist>       
+    
+                    <br><label>Destino</label><br>
+    
+                    <select>
+                        <option value=""></option>
+                        <option value="VDC - Glauber Rocha">VDC - Glauber Rocha (Vitória Da Conquista-BA)</option>
+                        <option value="SAL - Aeroporto Internacional de Salvador">SAL - Aeroporto Internacional de Salvador</option>
+                        <option value="GRU - Aeroporto Internacional de Guarulhos">GRU - Aeroporto Internacional de Guarulhos</option>
+                        <option value="CGH - Aeroporto de Congonhas">CGH - Aeroporto de Congonhas</option>
+                        <option value="VCP - Aeroporto Internacional de Viracopos/Campinas">VCP - Aeroporto Internacional de Viracopos/Campinas</option>
+                    </select><br>
+                </fieldset>
+    
+                <legend>Observações</legend>
+                <textarea cols="40" rows="20" placeholder="obs:"></textarea>
+            </fieldset>
+
+            <br><input type="submit" value="ENVIAR">
+
+            <br><br><br><img src="./guerrero-reu.jpg" width="500">
+
+        </form>
+
+    </body>
+</html>

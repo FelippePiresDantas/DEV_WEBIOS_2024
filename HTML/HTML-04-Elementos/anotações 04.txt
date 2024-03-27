@@ -1,0 +1,25 @@
+<a> (TAG DE LINKS)
+href"" ( ONDE COLOCA OS LINKS)
+
+--------------ORGANIZAÇÃO DO SITE-------------
+
+<header> (CABEÇALHO)
+<footer> (RODAPÉ)
+<img> (IMAGEM)
+<nav> (LINKS DE NAVEGAÇÃO)
+<main> (CONTEÚDO PRINCIPAL)
+<article> (FALAR SOBRE OUTRO ASSUNTO QUE NÃO DEPENDA DO PRINCIPAL)
+<section> (FALAR SOBRE OUTRO ASSUNTO QUE TENHA UM POUCO A VER COM O PRINCIPAL)
+<div> (GAMBIARRA QUANDO NENHUMA TAG SE ENCAIXA)
+<aside>
+
+
+
+
+
+
+
+
+<a target ="blank" href = "(URL DO SITE)"> <h1> (NOME DO LINK) <h1> </a> (BLANK SERVE PARA ABRIR UMA NOVA GUIA)
+
+<a target="_blank" href="../HTML-03-titulo/aula03-ExercicioCasa/index-casa.html"><h1>EU</h1></a> (OS 2 PONTOS SERVE PARA SAIR DUAS VEZES DA PASTA DO ARQUIVO) (E A BARRA PARA SELECIONAR UM ARQUIVO EM UMA NOVA PASTA)

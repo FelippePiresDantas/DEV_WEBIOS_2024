@@ -1,0 +1,3 @@
+<link/> (MARCAÇÃO ÚNICA)
+<img src="./sccp.png" alt="Escudo do Corinthians"> ("ALT" MOSTRA UM TEXTO CASO N APAREÇA A IMAGEM ) (MARCAÇÃO ÚNICA)
+
