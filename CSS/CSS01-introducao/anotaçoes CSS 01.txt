@@ -2,7 +2,11 @@ CSS sempre usa as chaves {}
 
 ------------------------ESTILOS--------------------------
 
-(INCORPORADO)
+(INLINE) - 1o que manda mais
+
+<h1 style = "color:red;">Felippe Pires Dantas</h1>
+
+(INCORPORADO) - 2o que manda mais
 
 <head>
     <style>
@@ -12,11 +16,7 @@ CSS sempre usa as chaves {}
     </style>
 </head>
 
-(INLINE)
-
-<h1 style = "color:red;">Felippe Pires Dantas</h1>
-
-(EXTERNO)
+(EXTERNO) - 3o que manda mais
 
 <head>
     <link rel="stylesheet" href="./style.css">
