@@ -1,13 +1,24 @@
 body {background-color: #640064;
-      font-family: "Oswald", sans-serif;}
+      font-size: 16px;}
 
-h1 ,p {color: rgb(255, 255, 255);
-       text-align: center;}
+h1 {color: rgb(255, 255, 255);
+       text-align: center;
+       font-size: 2.2em;
+       font-weight: 1000;
+       line-height: 250%;
+       text-shadow: 0px 20px 5px gray}
 
-img {height: 540px;
-     width: 900px;
+img {height: 30%;
+     width: 60%;
      display: block;
-     margin:auto;}
+     margin:auto;
+     border-radius: 15%;
+     box-shadow: 0px 30px 700px rgb(255, 255, 255);}
+
+p {color: rgb(255, 255, 255);
+      font-size: 1em;
+      text-align: center;
+      font-weight: 900;}
 
 
   
