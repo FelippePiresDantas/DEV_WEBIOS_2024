@@ -1,0 +1,24 @@
+* {margin: 50px;}
+
+h1 {color: firebrick;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 0px 2px 5px black;
+    background-color: rgba(212, 0, 255, 0.219);}
+
+.azul {color: rgb(47, 206, 206);}
+
+.roxo {color: rgb(78, 8, 148);
+    font-weight: 1000;
+    background-color: rgb(103, 103, 103);
+    text-shadow: 0px 4px 15px white;
+    font-size: 20px;
+    text-align: center;}
+    
+
+.amarelo {color: rgb(255, 234, 0);
+          font-weight: 600;
+          text-shadow: 0px 0px 8px black;
+          font-size: 50px;}
+
+.rosa {color: rgb(186, 108, 153);}
