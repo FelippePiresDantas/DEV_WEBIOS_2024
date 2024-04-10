@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://miro.medium.com/v2/resize:fit:400/1*ipDEbUTIgWQX10avW616jQ.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;}
+
+p {border : 10px outset purple;
+    background-color: black;
+    color: lightgray;
+    border-radius: 20px;}
+
+figure {border: 10px solid purple;
+        border-radius: 60px;}
+
+img {width: 553px;
+    border-radius: 50px;}
