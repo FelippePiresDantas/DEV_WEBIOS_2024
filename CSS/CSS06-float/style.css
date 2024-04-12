@@ -1,0 +1,12 @@
+
+
+img {padding-left: 35px;
+    padding-right: 35px;
+    width: 50%;
+    height: 30%;}
+
+#paragrafo1 {float: left;
+             width: 20%;}
+
+#paragrafo2 {float: right;
+             width: 20%;}

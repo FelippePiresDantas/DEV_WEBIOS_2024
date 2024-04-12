@@ -1,2 +1,14 @@
+* {/*margin-left: 0;
+   margin-right: 0;*/}
+
 #secao {border: 3px solid #000000;
+        padding: 7px;
+        margin-top: 15px;}
+
+#secao2{border: 3px solid #5900ff;
+        padding: 7px;
+        margin-top: 20px;
+        margin-bottom: 20px;}
+
+#secao3{border: 3px solid #ff0303;
         padding: 7px;}
