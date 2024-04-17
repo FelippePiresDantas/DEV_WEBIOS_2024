@@ -1,3 +1,23 @@
-p:first-child{
-    font-weight: 900;
-}
+p:first-child{font-weight: 900;}
+
+#botao{border: 5px solid blueviolet;
+        background-color: rgb(122, 206, 245);
+        color: white;
+        border-radius: 10px;}
+
+#botao:hover {color: black;
+              background-color: fuchsia;
+              font-size: 50px;}
+
+#pHover:hover{background-color: darkturquoise;
+              border: 5px solid yellow;
+              border-radius: 10000px;}
+
+#tituloh2:hover{font-family: "Jersey 20", sans-serif;
+                font-weight: 1000;
+                font-style: normal;
+                font-size: 25px;
+                color: green;}
+
+#imagem:hover{box-shadow: 20px 20px 20px purple;
+              width: 800px;}
