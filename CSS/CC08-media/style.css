@@ -1,3 +1,24 @@
+
+
 img {width: 700px;}
 
-@media(max-width: 450px) {img{width: 200px;}}
+@media(max-width: 450px){
+        img{
+        width: 200px;}
+
+    body {background-color: cadetblue;}
+
+    img:hover {
+        border: 1px solid black;
+        border-radius: 5px;
+        box-shadow: 10px 10px 10px black;}
+}
+
+@media(min-width: 451px){
+        body {background-color: lightblue;}
+
+        img {width: 250px;}
+
+        img:hover {box-shadow: 20px 20px 9px pink;
+                   border-radius: 50px;}
+}
