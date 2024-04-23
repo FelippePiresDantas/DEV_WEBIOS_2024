@@ -1,0 +1,19 @@
+body {background-color: black;}
+
+.container {display: flex;
+            /* flex-direction: column; */
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            border: 3px solid pink;
+            align-items: stretch;
+            height: 50vh;}
+
+.item {border: 2px solid black;
+       background-color: white;
+       width: 60px;
+       /* height: 50px; */
+       transition: all 0.8s;}
+
+.item:hover {transform: scale(1.09);}
+
+#item-1 {flex-grow:1;}
