@@ -1,4 +1,4 @@
-* {background-color: dodgerblue;}
+/* * {background-color: dodgerblue;}
 
 #container {
             display: grid;
@@ -15,4 +15,29 @@
 .itens:hover {transform: scale(1.09);
               background-color: darkblue;
               border: 2px solid white;
-              border-radius: 50em;}
+              border-radius: 50em;} */
+
+#container2 {display: grid;
+            grid-template-columns: repeat(4 ,1fr);
+            grid-template-rows: 10em 3em 10em;
+            grid-template-areas: "cabeçalho cabeçalho cabeçalho cabeçalho" "principal principal . aux" "rodapé rodapé rodapé rodapé";
+            /* column-gap: 1em; */
+            /* row-gap: 1em; */
+            border: solid 3px purple;
+            /* justify-items: center; */
+            /* align-items: center; */
+}
+
+.dives {border: 1px solid black;
+        text-align: center;
+        /* width: 50%;
+        height: 50%; */
+        background-color: aquamarine;}
+
+#div1 {grid-area: cabeçalho;}
+
+#div2 {grid-area: principal;}
+
+#div3 {grid-area: aux;}
+
+#div4 {grid-area: rodapé;}
