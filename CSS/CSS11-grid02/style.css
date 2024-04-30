@@ -1,0 +1,33 @@
+#container {display: grid;
+            grid-template-columns: repeat(8, 5em);
+            grid-template-rows: repeat(6, 5em);}
+
+.class {border: 2px solid purple;
+        font-weight: bold;
+        text-align: center;}
+
+#id1 {background-color: aqua;
+    grid-column: 1/9; /*start/end (da coluna)*/
+    grid-row: 1/6; /*start/end (da linha)*/
+
+    /* width: 50%;
+    height: 50%; */
+
+    /* justify-self: center;*/ /*horizontal */
+    /*align-self: center;*/ /*vertical*/
+    /*place-self: center end;*/ /*vertical/horizontal*/
+}
+
+#id2 {background-color: coral;}
+
+#id3 {background-color: brown;}
+
+#id4 {background-color: crimson;}
+
+#id5 {background-color: darksalmon;}
+
+#id6 {background-color: goldenrod;}
+
+#id7 {background-color: dodgerblue;}
+
+#id8 {background-color: darkcyan;}
