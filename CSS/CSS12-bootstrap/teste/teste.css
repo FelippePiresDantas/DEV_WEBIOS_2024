@@ -1,0 +1,24 @@
+header {text-align: center;
+        background-color: darkblue;
+        margin-top: 0;
+        border-top: 0;
+        padding-top: 1em;
+        font-size: 25px;}
+
+p {color: black;}
+
+span {color: red;}
+
+nav {background-color: blue;
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;}
+
+.naves {background-color: aquamarine;
+        margin-left: 2em;
+        margin-right: 2em;
+        margin-top: 0;
+        border-radius: 1em;
+        text-decoration: none;
+        padding: 5px;}
+
+div {font-size: 2em;}
