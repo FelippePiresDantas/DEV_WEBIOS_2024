@@ -16,7 +16,22 @@ console.log ("O Messi tem ",_felippe, " bolas de ouro.");
 //infinity (número muito grande para ser mostrado)
 //-infinity (número muito grande negativo para ser mostrado)
 
-//string = texto
+//string = texto ("")
 
 // == compara se é igual
 // =!
+
+//RESTO DE DIVISAO
+// var teste1 = 45;
+// var teste2 = 22;
+// console.log(teste1 % teste2 == teste2 % 21);
+
+// === COMPARA SE O VALOR E TIPO É IGUAL
+
+// console.log(2 > 3 != 2)
+
+// || ou
+// && e
+
+// mostra qual é o tipo da variável
+// console.log(typeof _felippe);
