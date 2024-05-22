@@ -61,7 +61,7 @@ console.log (moedas.pop());
 console.log (moedas);
 console.clear ();
 
-// PUSH (adiciona elementos no array ,também mostra o novo tamanho)
+// PUSH (adiciona elementos no final do array ,também mostra o novo tamanho)
 console.log (moedas);
 console.log (moedas.push("Dolar"));
 console.log (moedas);
