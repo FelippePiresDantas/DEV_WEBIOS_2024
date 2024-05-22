@@ -15,7 +15,7 @@ var ar = ["HTML", 1993, "CSS", 1996, "Bootstrap", 2011, "JS", 1995,
  (ar.unshift("IOS"));
  console.log (ar);
 
- console.log("")
+ console.log ("");
  console.log ("Exercício 2");
 
 var bid = [
@@ -24,9 +24,7 @@ var bid = [
     ["React", 2013, "Java", 1995]
 ];
 
-console.log (bid[0]);
-console.log (bid[1]);
-console.log (bid[2]);
+console.log (bid);
 console.log (bid.length);
 console.log (bid[2][1]);
 
@@ -37,4 +35,4 @@ delete bid[2][2];
 console.log (bid[2]);
 
 (bid[2].push("Pipoca"));
-console.log (bid);
+console.log (bid[2]);

@@ -36,3 +36,10 @@ var arObj = [
         ano: "1F"
     },
 ];
+
+console.log (arObj);
+console.log (arObj[1]);
+console.log (arObj[3].nota);
+
+var jason = JSON.stringify(arObj);
+console.log (jason);
