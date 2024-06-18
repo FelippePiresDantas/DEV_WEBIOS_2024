@@ -209,10 +209,15 @@ footer {
     margin-bottom: 0.75rem;
 }
 
+#p-redes {
+    padding-left: 1em;
+}
+
 #footer_social_media {
     display: flex;
     gap: 2rem;
-    margin-top: 1.5rem;
+
+    padding: 1em;
 } 
 
 #footer_social_media .footer-link {
